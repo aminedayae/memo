@@ -2,5 +2,5 @@
 __pycache__/
 *.pyc
 models/
-data/
-artifacts/
+*.pkl
+.env/
